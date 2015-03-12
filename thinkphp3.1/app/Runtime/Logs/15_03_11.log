@@ -1,0 +1,33 @@
+[ 2015-03-11T10:08:32+08:00 ] 127.0.0.1 /zendWorkSpace/phpStudy/thinkphp3.1/app/index.php/userUser/search?username=WWW&sex=0
+ERR: 无法加载模块:UserUser
+
+[ 2015-03-11T10:08:53+08:00 ] 127.0.0.1 /zendWorkSpace/phpStudy/thinkphp3.1/app/index.php/userUser/search?username=SWW&sex=0
+ERR: 无法加载模块:UserUser
+
+[ 2015-03-11T10:09:19+08:00 ] 127.0.0.1 /zendWorkSpace/phpStudy/thinkphp3.1/app/index.php/userUser/search?username=WW&sex=0
+ERR: 无法加载模块:UserUser
+
+[ 2015-03-11T10:09:31+08:00 ] 127.0.0.1 /zendWorkSpace/phpStudy/thinkphp3.1/app/index.php/userUser/search?username=WWW&sex=0
+ERR: 无法加载模块:UserUser
+
+[ 2015-03-11T10:56:43+08:00 ] 127.0.0.1 /zendWorkSpace/phpStudy/thinkphp3.1/app/index.php/User/
+ERR: 模板不存在[K:/php/apache/htdocs/zendWorkSpace/phpStudy/thinkphp3.1/app/Tpl/User/index.tpl]
+
+[ 2015-03-11T11:40:05+08:00 ] 127.0.0.1 /zendWorkSpace/phpStudy/thinkphp3.1/app/index.php/Index/publicerror
+ERR: 模板不存在[K:/php/apache/htdocs/zendWorkSpace/phpStudy/thinkphp3.1/app/Tpl/Index_Public_error.html]
+
+[ 2015-03-11T11:40:38+08:00 ] 127.0.0.1 /zendWorkSpace/phpStudy/thinkphp3.1/app/index.php/Index/publicerror
+ERR: 模板不存在[K:/php/apache/htdocs/zendWorkSpace/phpStudy/thinkphp3.1/app/Tpl/Index_Public_error.html]
+
+[ 2015-03-11T11:40:47+08:00 ] 127.0.0.1 /zendWorkSpace/phpStudy/thinkphp3.1/app/index.php/Index/publicerror
+ERR: 模板不存在[K:/php/apache/htdocs/zendWorkSpace/phpStudy/thinkphp3.1/app/Tpl/Index_Public_error.html]
+
+[ 2015-03-11T11:41:10+08:00 ] 127.0.0.1 /zendWorkSpace/phpStudy/thinkphp3.1/app/index.php/Index/publicerror
+ERR: 模板不存在[K:/php/apache/htdocs/zendWorkSpace/phpStudy/thinkphp3.1/app/Tpl/Index_Public_error.html]
+
+[ 2015-03-11T11:42:36+08:00 ] 127.0.0.1 /zendWorkSpace/phpStudy/thinkphp3.1/app/index.php/Index/publicerror
+ERR: 模板不存在[K:/php/apache/htdocs/zendWorkSpace/phpStudy/thinkphp3.1/app/Tpl/Index_Public_error.html]
+
+[ 2015-03-11T14:33:44+08:00 ] 127.0.0.1 /zendWorkSpace/phpStudy/thinkphp3.1/app/index.php/publicerror
+ERR: 无法加载模块:Publicerror
+

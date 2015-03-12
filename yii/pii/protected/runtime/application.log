@@ -1,0 +1,32 @@
+2015/03/11 17:29:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user".' in K:\php\apache\htdocs\zendWorkSpace\phpStudy\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 K:\php\apache\htdocs\zendWorkSpace\phpStudy\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user')
+#1 K:\php\apache\htdocs\zendWorkSpace\phpStudy\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 K:\php\apache\htdocs\zendWorkSpace\phpStudy\yii\pii\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/zendWorkSpace/phpStudy/yii/pii/index.php?r=user
+---
+2015/03/11 17:29:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "User".' in K:\php\apache\htdocs\zendWorkSpace\phpStudy\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 K:\php\apache\htdocs\zendWorkSpace\phpStudy\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('User')
+#1 K:\php\apache\htdocs\zendWorkSpace\phpStudy\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 K:\php\apache\htdocs\zendWorkSpace\phpStudy\yii\pii\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/zendWorkSpace/phpStudy/yii/pii/index.php?r=User
+---
+2015/03/11 17:29:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "User".' in K:\php\apache\htdocs\zendWorkSpace\phpStudy\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 K:\php\apache\htdocs\zendWorkSpace\phpStudy\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('User')
+#1 K:\php\apache\htdocs\zendWorkSpace\phpStudy\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 K:\php\apache\htdocs\zendWorkSpace\phpStudy\yii\pii\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/zendWorkSpace/phpStudy/yii/pii/index.php?r=User
+---
+2015/03/11 17:30:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user".' in K:\php\apache\htdocs\zendWorkSpace\phpStudy\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 K:\php\apache\htdocs\zendWorkSpace\phpStudy\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user')
+#1 K:\php\apache\htdocs\zendWorkSpace\phpStudy\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 K:\php\apache\htdocs\zendWorkSpace\phpStudy\yii\pii\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/zendWorkSpace/phpStudy/yii/pii/index.php?r=user
+---
